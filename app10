@@ -97,15 +97,4 @@ function extractString(str1, length)
 console.log(extractedString(Robin Singh, 4));
 console.log(extractedString(ISET tataouine, 7);
 */
- //#9
- /*
- function protectEmail (user_email) {
-    let atIndex = email.indexOf("@");
-    let username = email.substring(0, atIndex);
-    let hiddenUsername = username.substring(0, Math.min(username.length, 3)) + "*****";
-    let domain = email.substring(atIndex);
-    return hiddenUsername + domain;
-};
-console.log(protectEmail("isettataouine@gmail.com"));
- */
-
+ 
